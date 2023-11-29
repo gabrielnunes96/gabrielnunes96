@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning/studing and being productive constantly<br>🌱 I’m currently learning Javascript and its respective frameworks<br>⚡ Fun fact: I gave up programming 8 years ago but I decided to resume in 2022 and I'm currently loving it
+🔭 I’m always working on how to be productive constantly<br>🌱 I’m currently a Fullstack Developer<br>⚡ Fun fact: I gave up programming 8 years ago but I decided to comeback in 2022 and I'm currently loving it
 
 
 ## 🌐 Socials:
